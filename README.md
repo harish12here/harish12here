@@ -65,14 +65,6 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harish12here&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&margin_h=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="left">
@@ -141,7 +133,7 @@ const developer = {
 
 ```
 🏢 Wysbryx Pvt Ltd — Fullstack Developer Intern
-📍 Remote  |  📅 October 2025 – Present
+📍 Remote  |  📅 October 2025 – September 2026
 ```
 
 - 🧩 **Component Architecture**: Architected **12+ reusable React components** using `Next.js`, `Tailwind CSS`, and `TypeScript`, significantly reducing sprint development time.
@@ -158,7 +150,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3 align="center">🌐 Social Connection</h3>
       <p align="center">
-        <a href="https://YOUR_SOCIAL_CONNECTION_LIVE_URL" target="_blank">
+        <a href="https://social-connection-delta.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D2FF?style=for-the-badge&logo=firefox&logoColor=black" alt="Live Demo" />
         </a>
       </p>
@@ -173,7 +165,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3 align="center">📍 QR Location</h3>
       <p align="center">
-        <a href="https://YOUR_QR_LOCATION_LIVE_URL" target="_blank">
+        <a href="https://qr-location-0aqr.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D2FF?style=for-the-badge&logo=firefox&logoColor=black" alt="Live Demo" />
         </a>
       </p>
@@ -190,7 +182,7 @@ const developer = {
     <td colspan="2" valign="top">
       <h3 align="center">🎙️ AI Speech Therapy Assistant</h3>
       <p align="center">
-        <a href="https://YOUR_AI_SPEECH_THERAPY_URL" target="_blank">
+        <a href="https://github.com/harish12here/Speech-Therapy" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-8E75C2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </p>
@@ -217,13 +209,9 @@ const developer = {
 
 <br/><br/>
 
-<!-- Top Languages & Activity Graph -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish12here&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" height="155" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Interactive Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harish12here&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&hide_title=true" width="95%" alt="Activity Graph" />
 
 </div>
 
