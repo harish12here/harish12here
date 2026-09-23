@@ -5,10 +5,17 @@
 
 <!-- Dynamic Animated Typing -->
 <a href="https://github.com/harish12here">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&lines=⚡+Architecting+Scalable+Web+Apps;🚀+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+TypeScript;🛡️+Building+Secure+REST+APIs+%26+RBAC+Systems;🤖+Exploring+AI%2FML+%26+Real-Time+WebRTC" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&lines=⚡+Architecting+Scalable+Web+Apps;🚀+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+TypeScript;🛡️+Building+Secure+REST+APIs+%26+RBAC+Systems;🤖+Exploring+AI%2FML+%26+Real-Time+WebRTC" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- Dynamic Visitor Counter & GitHub Community Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harish12here&label=Profile%20Views&color=00D2FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/harish12here?label=Followers&style=for-the-badge&logo=github&color=00D2FF&labelColor=0D1117" alt="Followers" />
+</p>
 
 <!-- Interactive Quick Connect Buttons -->
 <p align="center">
@@ -61,7 +68,7 @@ const developer = {
 ## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&margin_h=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harish12here&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&margin_h=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -200,6 +207,28 @@ const developer = {
 
 ---
 
+## 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+<!-- Main Stats & Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=harish12here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&icon_color=00D2FF" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harish12here&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Top Languages & Activity Graph -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish12here&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" height="155" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Interactive Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harish12here&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&hide_title=true" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
 ## 🎓 Education
 
 - **B.E. in Computer Science and Engineering**  
@@ -224,7 +253,7 @@ const developer = {
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="harishganesan1205@gmail.com">
+  <a href="mailto:harishganesan1205@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
