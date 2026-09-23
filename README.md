@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Harish%20G&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20PostgreSQL&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Animated Typing -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/harish12here">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&lines=⚡+Architecting+Scalable+Web+Apps;🚀+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+TypeScript;🛡️+Building+Secure+REST+APIs+%26+RBAC+Systems;🤖+Exploring+AI%2FML+%26+Real-Time+WebRTC" alt="Typing SVG" />
 </a>
 
